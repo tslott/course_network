@@ -8,3 +8,4 @@
 * [] Build flows and journeys into graph viz
   * [] My own journey
   * [] The recommended journey of a MatTek student.
+* [] Build course recommendation model
