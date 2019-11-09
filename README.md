@@ -1,1 +1,10 @@
-# course_network
+# Course Network
+
+## TODO
+* [] Scrape data
+* [] Build network, find links between all courses
+* [] Build D3 graph
+* [] Host somewhere? Maybe just in Github.
+* [] Build flows and journeys into graph viz
+  * [] My own journey
+  * [] The recommended journey of a MatTek student.
